@@ -1,6 +1,6 @@
 # GitHub_Profil_card
 
-This project allows you to search for GitHub users and collect users' profile information, top 3 most popular repos, etc. allows you to view. It offers a user-friendly experience with Turkish and English language options.
+This project allows you to search for GitHub users and collect users' profile information, top 3 most popular repos, etc. allows you to view. 
 
  # Features
 Searching for GitHub users by username.
